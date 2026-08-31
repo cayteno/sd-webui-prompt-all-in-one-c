@@ -1,0 +1,56 @@
+[
+    {
+        "id": "0b61ba50-a49a-11f1-85ab-eeb48f9e2901",
+        "time": 1788111694,
+        "name": "",
+        "tags": [
+            {
+                "id": "178811169478846463",
+                "value": "masterpiece",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "masterpiece,"
+    },
+    {
+        "id": "8692b6d7-a4e7-11f1-a2b0-eeb48f9e2901",
+        "time": 1788144972,
+        "name": "",
+        "tags": [
+            {
+                "id": "1788144972725382035",
+                "value": "lowres",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lowres",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "lowres,"
+    }
+]

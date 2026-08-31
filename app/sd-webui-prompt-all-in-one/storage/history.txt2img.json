@@ -1,0 +1,103 @@
+[
+    {
+        "id": "d4cfd0d9-a492-11f1-b3e2-eeb48f9e2901",
+        "time": 1788108596,
+        "name": "",
+        "tags": [
+            {
+                "id": "1788110757778447053",
+                "value": "masterpiece",
+                "localValue": "\u6770\u4f5c",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "masterpiece,",
+        "is_favorite": false
+    },
+    {
+        "id": "f1971827-a497-11f1-9b4c-eeb48f9e2901",
+        "time": 1788110792,
+        "name": "",
+        "tags": [
+            {
+                "id": "1788112203209563452",
+                "value": "masterpiece",
+                "localValue": "\u6770\u4f5c",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1788112203209736233",
+                "value": "lowres",
+                "localValue": "\u4f4e\u5206\u8fa8\u7387",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lowres",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "masterpiece,lowres,"
+    },
+    {
+        "id": "3e8fac81-a49b-11f1-9305-eeb48f9e2901",
+        "time": 1788112210,
+        "name": "",
+        "tags": [
+            {
+                "id": "1788149908260626854",
+                "value": "lowres",
+                "localValue": "\u4f4e\u5206\u8fa8\u7387",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lowres",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "lowres,"
+    }
+]

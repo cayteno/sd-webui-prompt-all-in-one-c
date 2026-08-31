@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1ffcb3e6-a493-11f1-8733-eeb48f9e2901",
+        "time": 1788108722,
+        "name": "",
+        "tags": [
+            {
+                "id": "1788108722593152212",
+                "value": "AS-YoungV2-neg",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "AS-YoungV2-neg",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            }
+        ],
+        "prompt": "AS-YoungV2-neg,"
+    }
+]
