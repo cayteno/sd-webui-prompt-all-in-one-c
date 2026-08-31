@@ -1,0 +1,144 @@
+- name: 画质提升
+  groups:
+  - name: 顶级质量
+    color: rgba(255, 200, 0, .4)
+    tags:
+      Pixel_Picture: 像素画
+      masterpiece: 杰作
+      best quality: 最佳质量
+      amazing quality: 令人惊叹的质量
+      high quality: 高质量
+      ultra high res: 超高分辨率
+      8k: 8K分辨率
+      4k: 4K分辨率
+      highly detailed: 高度细节
+      ultra-detailed: 超精细
+      intricate details: 复杂细节
+      sharp focus: 锐利对焦
+      absurdres: 超长分辨率
+  - name: 渲染引擎
+    color: rgba(0, 200, 255, .4)
+    tags:
+      octane render: Octane渲染
+      cinema4d: C4D渲染
+      redshift render: Redshift渲染
+      vray: V-Ray渲染
+      unreal engine 5: 虚幻引擎5
+      unity: Unity引擎
+      blender render: Blender渲染
+      clay render: 黏土渲染
+      3d render: 3D渲染
+      ray tracing: 光线追踪
+- name: 艺术风格
+  groups:
+  - name: 动漫漫画
+    color: rgba(255, 0, 200, .4)
+    tags:
+      anime style: 动漫风格
+      manga: 漫画风格
+      chibi: Q版
+      cartoon style: 卡通风格
+      anime shading: 动漫上色
+      cel shading: 赛璐璐上色
+      anime screencap: 动漫截图
+      douga: 动态画
+  - name: 写实摄影
+    color: rgba(0, 255, 120, .4)
+    tags:
+      photorealistic: 照片写实
+      photographic: 摄影风格
+      dslr: 单反相机
+      film grain: 胶片颗粒
+      35mm: 35毫米胶片
+      bokeh: 虚化背景
+      depth of field: 景深
+      raw photo: 原始照片
+      hdr: 高动态范围
+  - name: 绘画媒介
+    color: rgba(150, 100, 255, .4)
+    tags:
+      oil painting: 油画
+      watercolor: 水彩
+      gouache: 水粉画
+      acrylic painting: 丙烯画
+      pastel art: 粉彩
+      ink painting: 水墨画
+      pencil sketch: 铅笔素描
+      charcoal: 炭笔画
+      digital painting: 数字绘画
+      concept art: 概念设计
+  - name: 艺术流派
+    color: rgba(255, 120, 0, .4)
+    tags:
+      impressionism: 印象派
+      surrealism: 超现实主义
+      art nouveau: 新艺术运动
+      art deco: 装饰艺术
+      cyberpunk: 赛博朋克
+      steampunk: 蒸汽朋克
+      baroque: 巴洛克
+      rococo: 洛可可
+      minimalism: 极简主义
+      pop art: 波普艺术
+  - name: 3D与数字
+    color: rgba(0, 180, 255, .4)
+    tags:
+      3d render: 3D渲染
+      pixar style: 皮克斯风格
+      low poly: 低多边形
+      voxel art: 体素艺术
+      isometric: 等距视角
+      claymation: 黏土动画
+- name: 光影氛围
+  groups:
+  - name: 自然光
+    color: rgba(255, 230, 100, .4)
+    tags:
+      golden hour: 黄金时刻
+      blue hour: 蓝色时刻
+      backlighting: 逆光
+      rim light: 轮廓光
+      soft lighting: 柔和光线
+      sunlight: 阳光
+      moonlight: 月光
+      god rays: 上帝之光
+      sun rays: 太阳光线
+  - name: 人造光
+    color: rgba(120, 200, 255, .4)
+    tags:
+      neon lights: 霓虹灯
+      studio lighting: 影棚灯光
+      cinematic lighting: 电影灯光
+      volumetric lighting: 体积光
+      dramatic lighting: 戏剧性光线
+      candlelight: 烛光
+      christmas lights: 圣诞彩灯
+      fluorescent: 荧光灯
+- name: 负面提示词
+  groups:
+  - name: 质量负面
+    color: rgba(255, 80, 80, .4)
+    tags:
+      lowres: 低分辨率
+      worst quality: 最差质量
+      bad quality: 差质量
+      blurry: 模糊
+      out of focus: 失焦
+      jpeg artifacts: JPEG伪影
+      watermark: 水印
+      signature: 签名
+      text: 文字
+      logo: 标志
+      duplicate: 重复
+  - name: 人体缺陷
+    color: rgba(255, 80, 80, .4)
+    tags:
+      bad anatomy: 错误解剖
+      bad hands: 坏手
+      extra fingers: 多余手指
+      missing fingers: 缺失手指
+      mutated hands: 畸形手
+      deformed: 畸形
+      disfigured: 毁容
+      ugly: 丑陋
+      bad proportions: 错误比例
