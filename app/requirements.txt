@@ -2,3 +2,4 @@ fastapi
 gradio
 uvicorn
 python-dotenv
+requests
